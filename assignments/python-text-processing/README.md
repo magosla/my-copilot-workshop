@@ -9,9 +9,11 @@ Build practical Python skills for working with text data by reading files, clean
 ### 🛠️ Read and Clean Text Data
 
 #### Description
+
 Create a Python program that loads text from a file and normalizes it so later analysis is consistent. Your program should handle letter case and punctuation in a predictable way.
 
 #### Requirements
+
 Completed program should:
 
 - Read text content from a file named `sample-text.txt`
@@ -31,9 +33,11 @@ Total words: 8
 ### 🛠️ Generate Word Analysis Report
 
 #### Description
+
 Extend your program to analyze the cleaned words and write results to an output file. This helps practice both text manipulation and file output.
 
 #### Requirements
+
 Completed program should:
 
 - Count how many times each word appears
