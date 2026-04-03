@@ -1,0 +1,3 @@
+Hello, students! Python is fun. Python is powerful.
+Text processing helps you build practical coding skills.
+Read files, clean text, and analyze words.
